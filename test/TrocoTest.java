@@ -1,5 +1,3 @@
-package br.calebe.ticketmachine.core;
-
 import java.util.ArrayList;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
